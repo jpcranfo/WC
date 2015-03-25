@@ -61,7 +61,7 @@ wc_output/wc_result.txt:	 The word count results
 	
 wc_output/med_result.txt:	 The running median of words/line results
 	
-wc_input/COMB_FILE/ComFil.txt	 Program creates directory COMB_FILE, and within it, creates ComFil.txt, which is the combined text of all text files in wc_input/ directory
+wc_input/COMB_FILE/ComFil.txt:	 Program creates directory COMB_FILE, and within it, creates ComFil.txt, which is the combined text of all text files in wc_input/ directory
 
 
 	
