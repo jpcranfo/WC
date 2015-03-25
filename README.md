@@ -30,7 +30,7 @@ wc_output:			 Folder that stores output files, which are wc_result.txt and med_r
  
 	src/:
 
-Wc.c		 		 The C source code
+Wc.c:		 		 The C source code
  
 	wc_input/:
 
@@ -54,6 +54,7 @@ RandomSentences.txt:		 A 980 kb file of nonsense words (with spaces and line fee
  
  
 <b>Files and folders that Template creates:</b>
+
 	Wc:		 		 The executable generated from compiling C code
 	
 	wc_output/wc_result.txt:	 The word count results
