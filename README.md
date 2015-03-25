@@ -16,7 +16,7 @@ Typical way to compile and run Template from Linux-like environment - type the f
 
 
 	Initial list of files and folders, and descriptions:
-Base folder:
+	Base folder:
 
 run.sh:		 	 The Linux or Linux-like shell script to run the entire C program
 
