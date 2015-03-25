@@ -2,7 +2,7 @@
 This collection of files and folder contains the complete program to count words in text files and calculate running median of words/line with each line in text files
 
 
-Typical way to compile and run Template from Linux-like environment - type the following (minus "Step X)) at command line is ./run.sh
+Typical way to compile and run Template from Linux-like environment - type the following at command line is ./run.sh
 
 
 
@@ -17,7 +17,7 @@ Typical way to compile and run Template from Linux-like environment - type the f
 
 	Initial list of files and folders, and descriptions:
 Base folder
- run.sh:		 	 The Linux or Linux-like shell script to run the entire C program
+		run.sh:		 	 The Linux or Linux-like shell script to run the entire C program
  src:	 			 Contains C source code
  wc_input:			 Contains the input text files
  wc_output:			 Folder that stores output files, which are wc_result.txt and med_result.txt
