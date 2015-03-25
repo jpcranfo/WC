@@ -6,7 +6,7 @@
 
 
 
-<b>How to use this program:  three options for input text files</b>
+<b>How to use this program:  three options for input text files:</b>
 
 1)  Run as is, and it grabs text from four input files, each containing one of the sentences given in the Insight Data Engineering project description.  On a PC Intel Core Duo CPU, 2 GHz, 3 GB of RAM, the run time was nearly instantaneous.
 
