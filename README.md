@@ -2,7 +2,7 @@
 <b>This collection of files and folder contains the complete program to count words in text files and calculate running median of words/line with each line in text files</b>
 
 
-<b>Typical way to compile and run Template from Linux-like environment - type the following at command line is ./run.sh</b>
+<b>Typical way to compile and run Template from Linux-like environment - type the following at command:  ./run.sh</b>
 
 
 
