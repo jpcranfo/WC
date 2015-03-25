@@ -7,6 +7,7 @@
 
 
 <b>How to use this program:  three options for input text files</b>
+
 1)  Run as is, and it grabs text from four input files, each containing one of the sentences given in the Insight Data Engineering project description.  On a PC Intel Core Duo CPU, 2 GHz, 3 GB of RAM, the run time was nearly instantaneous.
 
 2)  Working in wc_input directory, remove all *.txt files in the folder, and in their place, copy the two files in directory LOREM_IPSUM into wc_input/.  These two text files are a bit longer, and show the program can handle modest size text files.  On a PC Intel Core Duo CPU, 2 GHz, 3 GB of RAM, the run time was a few seconds.
@@ -15,7 +16,7 @@
 
 
 
-	Initial list of files and folders, and descriptions:
+<b>Initial list of files and folders, and descriptions:</b>
 	
 	Base folder:
 
@@ -39,24 +40,27 @@ LOREM_IPSUM/:			 Contains two text files, generated using Lorem Ipsum machine:  
 
 LARGE_FILE/:			 Contains one large text file that is 980 kb, generated using a random nonsense word generator I developed in C (not included)
  
-wc_input/LOREM_IPSUM/:
+	wc_input/LOREM_IPSUM/:
 
 LoremIpsum1.txt:		 Contains words generated using Lorem Ipsum machine:  http://www.lipsum.com/
 
 LoremIpsum2.txt:		 Contains more words generated using Lorem Ipsum machine:  http://www.lipsum.com/
 
-wc_input/LARGE_FILE/:
+	wc_input/LARGE_FILE/:
 
 RandomSentences.txt:		 A 980 kb file of nonsense words (with spaces and line feeds), generated using a C program I developed in C (not included)
 
  
  
  
-	Files and folders that Template creates:
-Wc:		 		 The executable generated from compiling C code
-wc_output/wc_result.txt:	 The word count results
-wc_output/med_result.txt:	 The running median of words/line results
-wc_input/COMB_FILE/ComFil.txt	 Program creates directory COMB_FILE, and within it, creates ComFil.txt, which is the combined text of all text files in wc_input/ directory
+<b>Files and folders that Template creates:</b>
+	Wc:		 		 The executable generated from compiling C code
+	
+	wc_output/wc_result.txt:	 The word count results
+	
+	wc_output/med_result.txt:	 The running median of words/line results
+	
+	wc_input/COMB_FILE/ComFil.txt	 Program creates directory COMB_FILE, and within it, creates ComFil.txt, which is the combined text of all text files in wc_input/ directory
 
 
 	
