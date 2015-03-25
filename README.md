@@ -16,6 +16,7 @@ Typical way to compile and run Template from Linux-like environment - type the f
 
 
 	Initial list of files and folders, and descriptions:
+	
 	Base folder:
 
 run.sh:		 	 The Linux or Linux-like shell script to run the entire C program
@@ -26,11 +27,11 @@ wc_input:			 Contains the input text files
 
 wc_output:			 Folder that stores output files, which are wc_result.txt and med_result.txt
  
-src/:
+	src/:
 
 Wc.c		 		 The C source code
  
-wc_input/:
+	wc_input/:
 
 Line1.txt .. Line4.txt:	 Four text files, each containing one sentence from the four sentence example given in Insight Data Engineering project description
 
