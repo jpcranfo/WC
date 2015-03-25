@@ -22,11 +22,11 @@
 
 run.sh:		 	 The Linux or Linux-like shell script to run the entire C program
 
-src:	 			 Contains C source code
+src/:	 			 Contains C source code
 
-wc_input:			 Contains the input text files
+wc_input/:			 Contains the input text files
 
-wc_output:			 Folder that stores output files, which are wc_result.txt and med_result.txt
+wc_output/:			 Folder that stores output files, which are wc_result.txt and med_result.txt
  
 	src/:
 
