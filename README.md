@@ -53,7 +53,7 @@ RandomSentences.txt:		 A 980 kb file of nonsense words (with spaces and line fee
  
  
  
-<b>Files and folders that Template creates:</b>
+<b>Files and folders created by program:</b>
 
 Wc:		 		 The executable generated from compiling C code
 	
