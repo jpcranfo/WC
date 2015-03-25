@@ -165,9 +165,9 @@ printf( "\n\n|--------------------------------------------------PROCESSING WORDS
 	
 	
 	
-	printf( "\n\n|--------------------------------------------------A FEW NUMBERS YOU MIGHT LIKE TO KNOW--------------------------------------------------|\n\n" );
+	printf( "\n\n\n\n|--------------------------------------------------A FEW NUMBERS YOU MIGHT LIKE TO KNOW--------------------------------------------------|\n\n" );
 	
-	printf("OK, all done processing words in text files\n\n");
+	printf("OK, all done processing words in text files\n\n\n");
 	
 	/*---Find total number of words in text files, and output word and word frequency appearance to wc_result.txt, and output running median to med_result.txt---*/
 	for ( ind=0; ind<NumWor; ind++ )
@@ -181,7 +181,7 @@ printf( "\n\n|--------------------------------------------------PROCESSING WORDS
 	printf("Here are a few numbers you might like to know:\n");
 	printf("\tTotal number of distinct words in text files is %d, and total number of all words, even non-distinct, is %d\n",NumWor, TotNumWor);
 	printf("\tCumulative number of lines in text files is %d\n",NumLines);
-	printf("\n\nOkay, all done, word count results are in wc_result.txt and running median results are in med_result.txt, both in folder wc_output, have a nice day!  Press enter to exit program:  ");
+	printf("\n\n\n\nOkay, all done, word count results are in wc_result.txt and running median results are in med_result.txt, both in folder wc_output, have a nice day!  Press enter to exit program:  ");
 	gets( usrinp );
 	printf("\n\n\n");
 
