@@ -2,7 +2,7 @@
 <b>This collection of files and folder contains the complete program to count words in text files and calculate running median of words/line with each line in text files</b>
 
 
-<b>Typical way to compile and run Template from Linux-like environment - type the following at command:  ./run.sh</b>
+<b>Typical way to compile and run the program from Linux-like environment - type the following at command:  ./run.sh</b>
 
 
 
@@ -34,7 +34,7 @@ Wc.c		 		 The C source code
  
 	wc_input/:
 
-Line1.txt .. Line4.txt:	 Four text files, each containing one sentence from the four sentence example given in Insight Data Engineering project description
+Line1.txt .. Line4.txt:	 Four text files, each containing one sentence
 
 LOREM_IPSUM/:			 Contains two text files, generated using Lorem Ipsum machine:  http://www.lipsum.com/
 
