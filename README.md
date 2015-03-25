@@ -55,13 +55,13 @@ RandomSentences.txt:		 A 980 kb file of nonsense words (with spaces and line fee
  
 <b>Files and folders that Template creates:</b>
 
-	Wc:		 		 The executable generated from compiling C code
+Wc:		 		 The executable generated from compiling C code
 	
-	wc_output/wc_result.txt:	 The word count results
+wc_output/wc_result.txt:	 The word count results
 	
-	wc_output/med_result.txt:	 The running median of words/line results
+wc_output/med_result.txt:	 The running median of words/line results
 	
-	wc_input/COMB_FILE/ComFil.txt	 Program creates directory COMB_FILE, and within it, creates ComFil.txt, which is the combined text of all text files in wc_input/ directory
+wc_input/COMB_FILE/ComFil.txt	 Program creates directory COMB_FILE, and within it, creates ComFil.txt, which is the combined text of all text files in wc_input/ directory
 
 
 	
